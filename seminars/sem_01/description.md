@@ -10,8 +10,8 @@
 * Структуриране на информация в xml документ
 
 ## Ресурси:
-* XML Tutorial
-* XML Basics
+* [https://www.w3schools.com/xml/default.asp](XML Tutorial)
+* [https://www.w3schools.com/xml/xml_whatis.asp](XML Basics)
 
 ## Редактори:
 * NotePad++
