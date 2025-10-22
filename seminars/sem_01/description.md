@@ -10,7 +10,7 @@
 * Структуриране на информация в xml документ
 
 ## Ресурси:
-* [https://www.w3schools.com/xml/default.asp](XML Tutorial)
+* [XML Tutorial](https://www.w3schools.com/xml/default.asp)
 * [https://www.w3schools.com/xml/xml_whatis.asp](XML Basics)
 
 ## Редактори:
