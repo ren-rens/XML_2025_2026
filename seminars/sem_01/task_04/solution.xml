@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<excelOperators>
+	<header>
+		<column>Condition</column>
+        		<column>Operator</column>
+        		<column>Formula Example</column>
+       		<column>Description</column>
+	</header>
+
+    	<operator>
+        		<condition>Equal to</condition>
+        		<symbol><![CDATA[=]]></symbol>
+        		<formula><![CDATA[=A1=B1]]></formula>
+        		<description><![CDATA[The formula returns TRUE if a value in cell A1 is equal to the value in cell B1; FALSE otherwise.]]></description>
+    	</operator>
+
+   	<operator>
+        		<condition>Not equal to</condition>
+        		<symbol><![CDATA[<>]]></symbol>
+        		<formula><![CDATA[=A1<>B1]]></formula>
+        		<description><![CDATA[The formula returns TRUE if a value in cell A1 is not equal to the value in cell B1; FALSE otherwise.]]></description>
+    	</operator>
+
+    	<operator>
+        		<condition>Greater than</condition>
+        		<symbol><![CDATA[>]]></symbol>
+        		<formula><![CDATA[=A1>B1]]></formula>
+        		<description><![CDATA[The formula returns TRUE if a value in cell A1 is greater than the value in cell B1; otherwise it returns FALSE.]]></description>
+    	</operator>
+
+    	<operator>
+        		<condition>Less than</condition>
+        		<symbol><![CDATA[<]]></symbol>
+        		<formula><![CDATA[=A1<B1]]></formula>
+        		<description><![CDATA[The formula returns TRUE if a value in cell A1 is less than the value in cell B1; FALSE otherwise.]]></description>
+    	</operator>
+
+    	<operator>
+        		<condition>Greater than or equal to</condition>
+        		<symbol><![CDATA[>=]]></symbol>
+        		<formula><![CDATA[=A1>=B1]]></formula>
+        		<description><![CDATA[The formula returns TRUE if a value in cell A1 is greater than or equal to the value in cell B1; FALSE otherwise.]]></description>
+    	</operator>
+
+    	<operator>
+        		<condition>Less than or equal to</condition>
+        		<symbol><![CDATA[<=]]></symbol>
+        		<formula><![CDATA[=A1<=B1]]></formula>
+        		<description><![CDATA[The formula returns TRUE if a value in cell A1 is less than or equal to the value in cell B1; FALSE otherwise.]]></description>
+    		</operator>
+</excelOperators>
