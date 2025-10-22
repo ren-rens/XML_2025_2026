@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<cinema>
+	<general>
+		<address>София бул. Черни връх 100, в сградата на Paradise Center</address>
+		<phoneNumber>029037474</phoneNumber>
+		<site>https://www.cinemacity.bg/</site>
+		<description>
+			Мултиплекс Cinema City Парадайз разполага с:
+			14 модерни киносалона с 2166 места,
+			първата 4DX зала в България,
+			съоръжения за посетители в инвалидни колички.
+			Посетителите на Парадайз център ползват 2 часа безплатен паркинг. 
+			За допълнителни 90 минути е необходимо да валидирате талона си за паркиране  
+			на касите при закупуване на билетите за кино.
+		</description>
+	</general>
+	
+	<prices>
+		<monday>10,00</monday>
+		<tuesday>10,00</tuesday>
+		<wednesday>8,00</wednesday>
+		<thursday>9,00</thursday>
+		<friday>15,00</friday>
+		<saturday>20,00</saturday>
+		<sunday>15,00</sunday>
+	</prices>
+
+	<movies>
+		<movie>
+			<name>Почивката</name>
+			<date>22/23 октомври</date>
+			<hour>14:00/16:30/19:00/21:20</hour>
+		</movie>
+		
+		<movie>
+			<name>Безследно изчезали</name>
+			<date>22/23 октомври</date>
+			<hour>13:50/21:40</hour>
+		</movie>
+
+		<movie>
+			<name>Гран При на Европа</name>
+			<date>22/23 октомври</date>
+			<hour>13:15</hour>
+		</movie>
+
+		<movie>
+			<name>Езеро от кости</name>
+			<date>22/23 октомври</date>
+			<hour>15:45/21:00</hour>
+		</movie>
+	</movies>
+
+</cinema>
