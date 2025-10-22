@@ -11,7 +11,7 @@
 
 ## Ресурси:
 * [XML Tutorial](https://www.w3schools.com/xml/default.asp)
-* [https://www.w3schools.com/xml/xml_whatis.asp](XML Basics)
+* [XML Basics](https://www.w3schools.com/xml/xml_whatis.asp)
 
 ## Редактори:
 * NotePad++
