@@ -6,10 +6,22 @@
 <title>A true story</title>
 <description>A real cool publication</description>
 </book>
+```
+```
 <record>
 <name>Miller</name>
 <title>Dr. </title>
 <publications> ... </publications>
 </record>
 ```
-Упътване
+
+## Упътване
+Пространството от имена осигурява начин за разграничаване на два или повече XML елемента, които имат едно и също име, но принадлежат към различни речници (например set е елемент както в SVG, така и в MathML, но смисълът му в двата езика е различен). Това се извършва чрез асоцииране на елемент с пространство от имена. Името на пространството от имена задава обхвата на всички свързани с него елементи.
+
+Синтаксис: ```<prefix:element xmlns:prefix="URI">```
+
+Пример: 
+```
+<html:html xmlns:html="http://www.w3.org/1999/xhtml">
+                <html:head> ..... </html:head>
+```
