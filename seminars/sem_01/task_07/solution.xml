@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record:record xmlns:record="https://www.record.com" xmlns:book="https://www.book.com">
+    	<record:name>Miller</record:name>
+    	<record:title>Dr.</record:title>
+    	<record:publications>
+        		<book:book>
+            			<book:title>A true story</book:title>
+            			<book:description>A real cool publication</book:description>
+        		</book:book>
+    	</record:publications>
+</record:record>
