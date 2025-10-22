@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<recipe author="Анонимен">
+<images>
+	<image>images/cookie_cake1.jpg</image>
+        	<image>images/cookie_cake2.jpg</image>
+        	<image>images/cookie_cake3.jpg</image>
+</images>
+<name>Бисквитена торта</name>
+<address>
+	<site>www.recipes.com></site>
+</address>
+<ingredients>
+	<list>
+		<item count="1" weight="200g">1 пакет бисквити</item>
+            		<item count="1" weight="400g">1 кофичка кисело мляко</item>
+            		<item count="1" weight="300g">1 бурканче сладко</item>
+            		<item count="2" weight="100g">2 яйца</item>
+           		<item count="1" weight="10g">1 пакетче бакпулвер</item>
+	</list>
+</ingredients>
+<process>
+	<P>Разбъркваме млякото и сладкото. 
+	Един ред бисквити, един ред от сместа и
+	 пак така, най-отгоре поръсваме орехи. 
+	Изчаква се до омекване на бисквитите.</P>
+	<p><i>Много вкусно!</i></p>
+</process>
+</recipe>
