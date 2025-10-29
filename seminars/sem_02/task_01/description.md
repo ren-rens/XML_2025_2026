@@ -43,3 +43,7 @@
 <!ELEMENT price (#PCDATA)>
 ]>
 ```
+
+# Упътване
+* Синтаксис за включване на външна DTD граматика: <!DOCTYPE root-element SYSTEM "file-name">
+* Синтаксис за включване на вътрешна DTD граматика: <!DOCTYPE root-element [element-declarations]>
